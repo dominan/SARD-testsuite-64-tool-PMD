@@ -8,4 +8,4 @@
 <h3> Công cụ PMD (Sonarqube)
   <h4>file test:  SARD-testsuite-64 (27 testcase) - nhóm chọn file test này vì máy bộ nhớ không đủ chạy file juliet test
   <h4>Kết quả</h4>
-  ![image](https://raw.githubusercontent.com/dominan/SARD-testsuite-64-tool-PMD/master/testPMDSARD.png)
+  ![](https://raw.githubusercontent.com/dominan/SARD-testsuite-64-tool-PMD/master/testPMDSARD.png)
