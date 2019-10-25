@@ -9,3 +9,4 @@
   <h4>file test:  SARD-testsuite-64 (27 testcase) - nhóm chọn file test này vì máy bộ nhớ không đủ chạy file juliet test
   <h4>Kết quả</h4>
   ![alt text](https://raw.githubusercontent.com/dominan/SARD-testsuite-64-tool-PMD/master/testPMDSARD.png)
+    ![Screenshot](https://raw.githubusercontent.com/dominan/SARD-testsuite-64-tool-PMD/master/testPMDSARD.png)
